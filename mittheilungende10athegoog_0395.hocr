@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende10athegoog_0395.png"; bbox 0 0 3605 5557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 153 3293 273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 153 3293 273">
+     <span class='ocr_line' id='line_1_1' title="bbox 2949 153 3293 199; baseline 0.017 -6"><span class='ocrx_word' id='word_1_1' title='bbox 2949 154 3134 194; x_wconf 68' lang='lat' dir='ltr'>&#39;rm-⁴131.</span> <span class='ocrx_word' id='word_1_2' title='bbox 3167 153 3293 199; x_wconf 85' lang='lat' dir='ltr'><em>xm.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 415 225 1795 273; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 415 227 826 273; x_wconf 63' lang='lat' dir='ltr'><em>mnu-neumam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 861 226 960 273; x_wconf 77' lang='lat' dir='ltr'><em>DES</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 999 226 1287 271; x_wconf 62' lang='lat' dir='ltr'>anemeel..</span> <span class='ocrx_word' id='word_1_6' title='bbox 1322 225 1613 272; x_wconf 71' lang='lat' dir='ltr'><em>msm&#39;ures</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1659 228 1795 270; x_wconf 73' lang='lat'>1885.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1281 4893 2394 4959">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1281 4893 2394 4959">
+     <span class='ocr_line' id='line_1_3' title="bbox 1281 4893 2394 4959; baseline 0.002 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1281 4893 1766 4959; x_wconf 74' lang='grc' dir='ltr'>ΑΤΤΙΞΕΗΕ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1854 4895 2394 4959; x_wconf 72' lang='grc' dir='ltr'>ῦΒΑΒνΑὸΕ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1105 5287 2545 5358">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1105 5287 2545 5358">
+     <span class='ocr_line' id='line_1_4' title="bbox 1105 5287 2545 5358; baseline 0.002 -17"><span class='ocrx_word' id='word_1_10' title='bbox 1105 5287 1467 5347; x_wconf 75' lang='lat' dir='ltr'><em>Lichtclruck</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1503 5308 1552 5344; x_wconf 89' lang='lat' dir='ltr'><em>v.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1591 5292 1762 5346; x_wconf 83' lang='lat' dir='ltr'><strong><em>Gebr.</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1800 5290 1956 5345; x_wconf 76' lang='lat' dir='ltr'><em>Rho</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1977 5308 2030 5344; x_wconf 85' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 2053 5309 2088 5344; x_wconf 85' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 2111 5292 2301 5358; x_wconf 67' lang='lat' dir='ltr'><em>icles,</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 2338 5292 2545 5346; x_wconf 67' lang='lat' dir='ltr'><em>Athen.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

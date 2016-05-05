@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende10athegoog_0425.png"; bbox 0 0 3605 5557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 367 440 3279 494">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 367 440 3279 494">
+     <span class='ocr_line' id='line_1_1' title="bbox 367 440 3279 494; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 367 446 877 494; x_wconf 68' lang='lat' dir='ltr'>MuTTHfflLuNGEN</span> <span class='ocrx_word' id='word_1_2' title='bbox 931 446 1046 492; x_wconf 77' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_3' title='bbox 1094 445 1821 493; x_wconf 55' lang='lat' dir='ltr'>ARcuAt-:OLANSNTUTES</span> <span class='ocrx_word' id='word_1_4' title='bbox 1883 440 2013 489; x_wconf 74' lang='lat'><strong>¹885</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2937 445 3132 493; x_wconf 73' lang='grc' dir='ltr'>ΤΑΡΕΙ.</span> <span class='ocrx_word' id='word_1_6' title='bbox 3199 443 3279 490; x_wconf 81' lang='grc' dir='ltr'><strong>ΧΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1372 4878 2600 4943">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1372 4878 2600 4943">
+     <span class='ocr_line' id='line_1_2' title="bbox 1372 4878 2600 4943; baseline 0.004 -5"><span class='ocrx_word' id='word_1_7' title='bbox 1372 4878 1695 4939; x_wconf 73' lang='grc' dir='ltr'>ΒΗΟΝΖΕ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1767 4883 1929 4942; x_wconf 74' lang='grc' dir='ltr'>ΑΗΒ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1995 4880 2600 4943; x_wconf 48' lang='grc' dir='ltr'>ΑΕΕΧΑΝΟΒΙΕΝ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1543 5106 2399 5156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1543 5106 2399 5156">
+     <span class='ocr_line' id='line_1_3' title="bbox 1543 5106 2399 5156; baseline 0.008 -6"><span class='ocrx_word' id='word_1_10' title='bbox 1543 5106 1632 5150; x_wconf 60' lang='grc' dir='ltr'>ἶ.ὶ··;ἲ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1656 5108 1696 5149; x_wconf 62' lang='lat' dir='ltr'>‘d</span> <span class='ocrx_word' id='word_1_12' title='bbox 1713 5120 1718 5144; x_wconf 76' lang='grc' dir='ltr'>ῐ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1738 5107 1822 5152; x_wconf 60' lang='grc' dir='ltr'>Μ’,Ῥ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1849 5121 1877 5151; x_wconf 85' lang='grc' dir='ltr'><em>Ἰ</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1895 5108 1934 5152; x_wconf 71' lang='grc' dir='ltr'>Α</span> <span class='ocrx_word' id='word_1_16' title='bbox 1965 5110 2002 5152; x_wconf 60' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_17' title='bbox 2020 5111 2148 5154; x_wconf 44' lang='lat' dir='ltr'>lfa-751.</span> <span class='ocrx_word' id='word_1_18' title='bbox 2171 5111 2329 5156; x_wconf 52' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_19' title='bbox 2352 5114 2399 5154; x_wconf 59' lang='grc' dir='ltr'><em>Ἡ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

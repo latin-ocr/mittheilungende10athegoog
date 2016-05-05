@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende10athegoog_0100.png"; bbox 0 0 3605 5557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3395 2361 3448 3232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3395 2361 3448 3232">
+     <span class='ocr_line' id='line_1_1' title="bbox 3395 2361 3448 3232; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 3396 2361 3443 2424; x_wconf 63' lang='grc' dir='ltr'>’ρΛ</span> <span class='ocrx_word' id='word_1_2' title='bbox 3397 2440 3443 2602; x_wconf 57' lang='lat' dir='ltr'>LIII-298</span> <span class='ocrx_word' id='word_1_3' title='bbox 3435 2622 3447 2629; x_wconf 81' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_4' title='bbox 3397 2645 3443 2808; x_wconf 46' lang='lat' dir='ltr'>1408qu</span> <span class='ocrx_word' id='word_1_5' title='bbox 3395 2836 3443 2879; x_wconf 75' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_6' title='bbox 3409 2895 3441 2927; x_wconf 64' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3395 2946 3445 3062; x_wconf 47' lang='lat' dir='ltr'>&gt;LOU-l</span> <span class='ocrx_word' id='word_1_8' title='bbox 3398 3071 3448 3232; x_wconf 52' lang='lat' dir='ltr'>DUQOV‘}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3137 2079 3218 3528">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3137 2079 3218 3528">
+     <span class='ocr_line' id='line_1_2' title="bbox 3137 2079 3218 3528; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 3138 2079 3218 2560; x_wconf 42' lang='lat' dir='ltr'>&#39;5131ssOEOE</span> <span class='ocrx_word' id='word_1_10' title='bbox 3138 2613 3218 2788; x_wconf 72' lang='lat' dir='ltr'>Snv</span> <span class='ocrx_word' id='word_1_11' title='bbox 3137 2833 3216 3329; x_wconf 58' lang='lat' dir='ltr'>txfflssonvfl</span> <span class='ocrx_word' id='word_1_12' title='bbox 3141 3352 3218 3528; x_wconf 60' lang='lat'>&gt;331</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 154 434 213 5197">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 154 434 213 5197">
+     <span class='ocr_line' id='line_1_3' title="bbox 154 434 213 5197; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 166 434 209 488; x_wconf 87' lang='grc' dir='ltr'>’ΛΙ</span> <span class='ocrx_word' id='word_1_14' title='bbox 167 521 213 716; x_wconf 69' lang='grc' dir='ltr'><em>ἹΞΔἩ.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 161 3565 208 3708; x_wconf 75' lang='lat'>&#39;9881</span> <span class='ocrx_word' id='word_1_16' title='bbox 161 3756 209 4106; x_wconf 62' lang='lat' dir='ltr'>Samssusm</span> <span class='ocrx_word' id='word_1_17' title='bbox 158 4135 207 4478; x_wconf 62' lang='lat' dir='ltr'><strong>&#39;&#39;103vfloav</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 157 4525 204 4638; x_wconf 74' lang='lat'>330</span> <span class='ocrx_word' id='word_1_19' title='bbox 154 4692 205 5197; x_wconf 63' lang='lat' dir='ltr'>momumfflnw</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

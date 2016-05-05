@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende10athegoog_0239.png"; bbox 0 0 3605 5557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1978 406 3331 478">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1978 406 3331 478">
+     <span class='ocr_line' id='line_1_1' title="bbox 1978 406 3331 478; baseline 0.011 -17"><span class='ocrx_word' id='word_1_1' title='bbox 1978 406 2208 478; x_wconf 80' lang='lat' dir='ltr'><strong>Beilage</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2248 426 2311 464; x_wconf 92' lang='lat' dir='ltr'><strong>zu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2357 411 2543 466; x_wconf 82' lang='lat' dir='ltr'><strong>Miuh.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2576 412 2628 467; x_wconf 86' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2664 415 2817 472; x_wconf 83' lang='lat' dir='ltr'>arch.</span> <span class='ocrx_word' id='word_1_6' title='bbox 2855 418 2994 473; x_wconf 84' lang='lat' dir='ltr'><strong>lust.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3026 420 3077 474; x_wconf 88' lang='lat' dir='ltr'>X</span> <span class='ocrx_word' id='word_1_8' title='bbox 3116 421 3175 476; x_wconf 87' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 3209 422 3331 478; x_wconf 75' lang='lat'><strong>21⁶2.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2138 1244 3513 1427">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2138 1244 3513 1427">
+     <span class='ocr_line' id='line_1_2' title="bbox 2138 1244 3513 1322; baseline -0.001 -8"><span class='ocrx_word' id='word_1_10' title='bbox 2138 1266 2316 1314; x_wconf 61' lang='lat' dir='ltr'><strong>mum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2343 1279 2464 1313; x_wconf 68' lang='lat' dir='ltr'><strong>»aa</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2486 1267 2867 1314; x_wconf 66' lang='lat' dir='ltr'>memus</span> <span class='ocrx_word' id='word_1_13' title='bbox 2886 1283 2981 1312; x_wconf 71' lang='lat' dir='ltr'><strong>vm·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2997 1244 3513 1322; x_wconf 61' lang='lat' dir='ltr'><strong>mserum-nu,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2363 1365 3296 1427; baseline 0.001 -20"><span class='ocrx_word' id='word_1_15' title='bbox 2363 1365 2750 1427; x_wconf 55' lang='lat' dir='ltr'>aufflenommen</span> <span class='ocrx_word' id='word_1_16' title='bbox 2766 1379 2864 1408; x_wconf 80' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2886 1366 3144 1415; x_wconf 77' lang='lat' dir='ltr'><strong>G.Webex·,</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 3158 1366 3296 1408; x_wconf 81' lang='grc'><strong>1882.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

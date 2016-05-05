@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende10athegoog_0052.png"; bbox 0 0 3605 5557; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 516 0 549 37">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 516 0 549 37">
+     <span class='ocr_line' id='line_1_1' title="bbox 516 0 549 37"><span class='ocrx_word' id='word_1_1' title='bbox 516 0 549 37; x_wconf 59' lang='grc' dir='ltr'><strong>ηἺ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3603 1926 3605 2608">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3603 1926 3605 2608">
+     <span class='ocr_line' id='line_1_2' title="bbox 3603 1926 3605 2608"><span class='ocrx_word' id='word_1_2' title='bbox 3603 1926 3605 2608; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3603 1926 3605 2804">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3603 1926 3605 2804">
+     <span class='ocr_line' id='line_1_3' title="bbox 3603 1926 3605 2804"><span class='ocrx_word' id='word_1_3' title='bbox 3603 1926 3605 2804; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 480 154 553 1389">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 480 154 553 1389">
+     <span class='ocr_line' id='line_1_4' title="bbox 480 154 553 1389"><span class='ocrx_word' id='word_1_4' title='bbox 480 154 553 1389; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 488 3025 501 3338">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 488 3025 501 3338">
+     <span class='ocr_line' id='line_1_5' title="bbox 488 3025 501 3338; baseline -62.6 62.6"><span class='ocrx_word' id='word_1_5' title='bbox 494 3025 499 3030; x_wconf 81' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 488 3053 501 3270; x_wconf 26' lang='lat' dir='ltr'><strong>11⁷..fl-loeTnll,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 490 3291 497 3338; x_wconf 60' lang='lat'><strong>³13</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 3603 4237 3605 4754">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 3603 4237 3605 4754">
+     <span class='ocr_line' id='line_1_6' title="bbox 3603 4237 3605 4754"><span class='ocrx_word' id='word_1_8' title='bbox 3603 4237 3605 4754; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 3603 4955 3605 5455">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 3603 4955 3605 5455">
+     <span class='ocr_line' id='line_1_7' title="bbox 3603 4955 3605 5455"><span class='ocrx_word' id='word_1_9' title='bbox 3603 4955 3605 5455; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 666 5443 679 5496">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 666 5443 679 5496">
+     <span class='ocr_line' id='line_1_8' title="bbox 666 5443 679 5496"><span class='ocrx_word' id='word_1_10' title='bbox 666 5443 669 5446; x_wconf 96' lang='lat'>.</span> <span class='ocrx_word' id='word_1_11' title='bbox 666 5457 679 5496; x_wconf 58' lang='lat' dir='ltr'><strong>lt</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
